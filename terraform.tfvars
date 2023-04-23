@@ -12,4 +12,5 @@ ami           = "ami-09dd5f12915cfb387"
 
 instance_type = "t2.micro"
 
+#container ports on ec2
 ec2_ports = ["49153","49154","49155"]
